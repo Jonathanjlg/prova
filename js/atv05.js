@@ -7,6 +7,6 @@ function verificarNumero() {
     } else if (numero < 0) {
         document.getElementById("resultado").textContent = "O número é negativo.";
     } else {
-        document.getElementById("resultado").textContent = "O número é zero.";
+        document.getElementById("resultado").textContent = "O número é Neutro.";
     }
 }
